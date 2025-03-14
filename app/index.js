@@ -23,7 +23,7 @@ export default function Index() {
           onPress={() => router.push("/home")} // função para navegar para a tela home
           style={styles.button}
         >
-          <Text style={styles.TextButton}>Acessar Home</Text>
+          <Text style={styles.TextButton}>Vamos Montar!</Text>
         </TouchableOpacity>
       </View>
       <Text style={styles.p}>Desenvolvido por @andyxdev_</Text>
